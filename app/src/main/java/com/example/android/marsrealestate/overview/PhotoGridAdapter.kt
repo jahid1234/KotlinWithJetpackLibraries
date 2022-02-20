@@ -47,8 +47,6 @@ class PhotoGridAdapter(private val listener : OnItemClickListenerCustom) : ListA
                 return MarsPropertyViewHolder(binding)
             }
         }
-
-
     }
 
     /**
